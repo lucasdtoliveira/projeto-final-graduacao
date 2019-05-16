@@ -1,0 +1,16 @@
+results_2017_8_1_20_55_3.mat  
+simulação PSO com 1 large tof error, 100 agentes e 100 iterações
+Demorou cerca de 75 minutos simulando.
+
+______________________________________________________________
+
+results_2017_8_2_11_43_55.mat
+
+simulação PSO com 2 large tof errors, 10 agentes e 10 iterações
+3 valores diferentes para variância do vetor de ruido
+Demorou cerca de 3 minutos
+________________________________________________________________
+
+results_2017_8_9_15_45_16
+
+acredito ter todas as informações de simulação necessárias sobre PSO
